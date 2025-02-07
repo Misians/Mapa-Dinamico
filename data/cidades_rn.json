@@ -1,0 +1,837 @@
+[
+  {
+   "municipio": "Acari",
+   "codigo": 2400109,
+   "creas": true
+  },
+  {
+   "municipio": "Açu",
+   "codigo": 2400208,
+   "creas": true
+  },
+  {
+   "municipio": "Afonso Bezerra",
+   "codigo": 2400307,
+   "creas": true
+  },
+  {
+   "municipio": "Água Nova",
+   "codigo": 2400406,
+   "creas": false
+  },
+  {
+   "municipio": "Alexandria",
+   "codigo": 2400505,
+   "creas": false
+  },
+  {
+   "municipio": "Almino Afonso",
+   "codigo": 2400604,
+   "creas": false
+  },
+  {
+   "municipio": "Alto do Rodrigues",
+   "codigo": 2400703,
+   "creas": false
+  },
+  {
+   "municipio": "Angicos",
+   "codigo": 2400802,
+   "creas": true
+  },
+  {
+   "municipio": "Antônio Martins",
+   "codigo": 2400901,
+   "creas": false
+  },
+  {
+   "municipio": "Apodi",
+   "codigo": 2401008,
+   "creas": true
+  },
+  {
+   "municipio": "Areia Branca",
+   "codigo": 2401107,
+   "creas": true
+  },
+  {
+   "municipio": "Arês",
+   "codigo": 2401206,
+   "creas": true
+  },
+  {
+   "municipio": "Baía Formosa",
+   "codigo": 2401404,
+   "creas": true
+  },
+  {
+   "municipio": "Baraúna",
+   "codigo": 2401453,
+   "creas": true
+  },
+  {
+   "municipio": "Barcelona",
+   "codigo": 2401503,
+   "creas": false
+  },
+  {
+   "municipio": "Bento Fernandes",
+   "codigo": 2401602,
+   "creas": false
+  },
+  {
+   "municipio": "Bodó",
+   "codigo": 2401651,
+   "creas": true
+  },
+  {
+   "municipio": "Bom Jesus",
+   "codigo": 2401701,
+   "creas": false
+  },
+  {
+   "municipio": "Brejinho",
+   "codigo": 2401800,
+   "creas": true
+  },
+  {
+   "municipio": "Caiçara do Norte",
+   "codigo": 2401859,
+   "creas": false
+  },
+  {
+   "municipio": "Caiçara do Rio do Vento",
+   "codigo": 2401909,
+   "creas": false
+  },
+  {
+   "municipio": "Caicó",
+   "codigo": 2402006,
+   "creas": true
+  },
+  {
+   "municipio": "Campo Grande",
+   "codigo": 2401305,
+   "creas": false
+  },
+  {
+   "municipio": "Campo Redondo",
+   "codigo": 2402105,
+   "creas": true
+  },
+  {
+   "municipio": "Canguaretama",
+   "codigo": 2402204,
+   "creas": true
+  },
+  {
+   "municipio": "Caraúbas",
+   "codigo": 2402303,
+   "creas": true
+  },
+  {
+   "municipio": "Carnaúba dos Dantas",
+   "codigo": 2402402,
+   "creas": false
+  },
+  {
+   "municipio": "Carnaubais",
+   "codigo": 2402501,
+   "creas": false
+  },
+  {
+   "municipio": "Ceará-Mirim",
+   "codigo": 2402600,
+   "creas": true
+  },
+  {
+   "municipio": "Cerro Corá",
+   "codigo": 2402709,
+   "creas": true
+  },
+  {
+   "municipio": "Coronel Ezequiel",
+   "codigo": 2402808,
+   "creas": false
+  },
+  {
+   "municipio": "Coronel João Pessoa",
+   "codigo": 2402907,
+   "creas": false
+  },
+  {
+   "municipio": "Cruzeta",
+   "codigo": 2403004,
+   "creas": false
+  },
+  {
+   "municipio": "Currais Novos",
+   "codigo": 2403103,
+   "creas": true
+  },
+  {
+   "municipio": "Doutor Severiano",
+   "codigo": 2403202,
+   "creas": false
+  },
+  {
+   "municipio": "Encanto",
+   "codigo": 2403301,
+   "creas": false
+  },
+  {
+   "municipio": "Equador",
+   "codigo": 2403400,
+   "creas": false
+  },
+  {
+   "municipio": "Espírito Santo",
+   "codigo": 2403509,
+   "creas": false
+  },
+  {
+   "municipio": "Extremoz",
+   "codigo": 2403608,
+   "creas": true
+  },
+  {
+   "municipio": "Felipe Guerra",
+   "codigo": 2403707,
+   "creas": false
+  },
+  {
+   "municipio": "Fernando Pedroza",
+   "codigo": 2403756,
+   "creas": false
+  },
+  {
+   "municipio": "Florânia",
+   "codigo": 2403806,
+   "creas": true
+  },
+  {
+   "municipio": "Francisco Dantas",
+   "codigo": 2403905,
+   "creas": false
+  },
+  {
+   "municipio": "Frutuoso Gomes",
+   "codigo": 2404002,
+   "creas": false
+  },
+  {
+   "municipio": "Galinhos",
+   "codigo": 2404101,
+   "creas": false
+  },
+  {
+   "municipio": "Goianinha",
+   "codigo": 2404200,
+   "creas": true
+  },
+  {
+   "municipio": "Governador Dix-Sept Rosado",
+   "codigo": 2404309,
+   "creas": false
+  },
+  {
+   "municipio": "Grossos",
+   "codigo": 2404408,
+   "creas": false
+  },
+  {
+   "municipio": "Guamaré",
+   "codigo": 2404507,
+   "creas": true
+  },
+  {
+   "municipio": "Ielmo Marinho",
+   "codigo": 2404606,
+   "creas": false
+  },
+  {
+   "municipio": "Ipanguaçu",
+   "codigo": 2404705,
+   "creas": false
+  },
+  {
+   "municipio": "Ipueira",
+   "codigo": 2404804,
+   "creas": false
+  },
+  {
+   "municipio": "Itajá",
+   "codigo": 2404853,
+   "creas": false
+  },
+  {
+   "municipio": "Itaú",
+   "codigo": 2404903,
+   "creas": false
+  },
+  {
+   "municipio": "Jaçanã",
+   "codigo": 2405009,
+   "creas": false
+  },
+  {
+   "municipio": "Jandaíra",
+   "codigo": 2405108,
+   "creas": false
+  },
+  {
+   "municipio": "Janduís",
+   "codigo": 2405207,
+   "creas": false
+  },
+  {
+   "municipio": "Januário Cicco",
+   "codigo": 2405306,
+   "creas": false
+  },
+  {
+   "municipio": "Japi",
+   "codigo": 2405405,
+   "creas": false
+  },
+  {
+   "municipio": "Jardim de Angicos",
+   "codigo": 2405504,
+   "creas": false
+  },
+  {
+   "municipio": "Jardim de Piranhas",
+   "codigo": 2405603,
+   "creas": false
+  },
+  {
+   "municipio": "Jardim do Seridó",
+   "codigo": 2405702,
+   "creas": true
+  },
+  {
+   "municipio": "João Câmara",
+   "codigo": 2405801,
+   "creas": true
+  },
+  {
+   "municipio": "João Dias",
+   "codigo": 2405900,
+   "creas": false
+  },
+  {
+   "municipio": "José da Penha",
+   "codigo": 2406007,
+   "creas": false
+  },
+  {
+   "municipio": "Jucurutu",
+   "codigo": 2406106,
+   "creas": true
+  },
+  {
+   "municipio": "Jundiá",
+   "codigo": 2406155,
+   "creas": false
+  },
+  {
+   "municipio": "Lagoa d'Anta",
+   "codigo": 2406205,
+   "creas": false
+  },
+  {
+   "municipio": "Lagoa de Pedras",
+   "codigo": 2406304,
+   "creas": false
+  },
+  {
+   "municipio": "Lagoa de Velhos",
+   "codigo": 2406403,
+   "creas": false
+  },
+  {
+   "municipio": "Lagoa Nova",
+   "codigo": 2406502,
+   "creas": false
+  },
+  {
+   "municipio": "Lagoa Salgada",
+   "codigo": 2406601,
+   "creas": false
+  },
+  {
+   "municipio": "Lajes",
+   "codigo": 2406700,
+   "creas": false
+  },
+  {
+   "municipio": "Lajes Pintadas",
+   "codigo": 2406809,
+   "creas": false
+  },
+  {
+   "municipio": "Lucrécia",
+   "codigo": 2406908,
+   "creas": false
+  },
+  {
+   "municipio": "Luís Gomes",
+   "codigo": 2407005,
+   "creas": true
+  },
+  {
+   "municipio": "Macaíba",
+   "codigo": 2407104,
+   "creas": true
+  },
+  {
+   "municipio": "Macau",
+   "codigo": 2407203,
+   "creas": true
+  },
+  {
+   "municipio": "Major Sales",
+   "codigo": 2407252,
+   "creas": false
+  },
+  {
+   "municipio": "Marcelino Vieira",
+   "codigo": 2407302,
+   "creas": false
+  },
+  {
+   "municipio": "Martins",
+   "codigo": 2407401,
+   "creas": false
+  },
+  {
+   "municipio": "Maxaranguape",
+   "codigo": 2407500,
+   "creas": false
+  },
+  {
+   "municipio": "Messias Targino",
+   "codigo": 2407609,
+   "creas": false
+  },
+  {
+   "municipio": "Montanhas",
+   "codigo": 2407708,
+   "creas": true
+  },
+  {
+   "municipio": "Monte Alegre",
+   "codigo": 2407807,
+   "creas": true
+  },
+  {
+   "municipio": "Monte das Gameleiras",
+   "codigo": 2407906,
+   "creas": false
+  },
+  {
+   "municipio": "Mossoró",
+   "codigo": 2408003,
+   "creas": true
+  },
+  {
+   "municipio": "Natal",
+   "codigo": 2408102,
+   "creas": true
+  },
+  {
+   "municipio": "Nísia Floresta",
+   "codigo": 2408201,
+   "creas": true
+  },
+  {
+   "municipio": "Nova Cruz",
+   "codigo": 2408300,
+   "creas": true
+  },
+  {
+   "municipio": "Olho d'Água do Borges",
+   "codigo": 2408409,
+   "creas": false
+  },
+  {
+   "municipio": "Ouro Branco",
+   "codigo": 2408508,
+   "creas": true
+  },
+  {
+   "municipio": "Paraná",
+   "codigo": 2408607,
+   "creas": false
+  },
+  {
+   "municipio": "Paraú",
+   "codigo": 2408706,
+   "creas": false
+  },
+  {
+   "municipio": "Parazinho",
+   "codigo": 2408805,
+   "creas": false
+  },
+  {
+   "municipio": "Parelhas",
+   "codigo": 2408904,
+   "creas": true
+  },
+  {
+   "municipio": "Parnamirim",
+   "codigo": 2403251,
+   "creas": true
+  },
+  {
+   "municipio": "Passa e Fica",
+   "codigo": 2409100,
+   "creas": false
+  },
+  {
+   "municipio": "Passagem",
+   "codigo": 2409209,
+   "creas": false
+  },
+  {
+   "municipio": "Patu",
+   "codigo": 2409308,
+   "creas": true
+  },
+  {
+   "municipio": "Pau dos Ferros",
+   "codigo": 2409407,
+   "creas": true
+  },
+  {
+   "municipio": "Pedra Grande",
+   "codigo": 2409506,
+   "creas": false
+  },
+  {
+   "municipio": "Pedra Preta",
+   "codigo": 2409605,
+   "creas": false
+  },
+  {
+   "municipio": "Pedro Avelino",
+   "codigo": 2409704,
+   "creas": false
+  },
+  {
+   "municipio": "Pedro Velho",
+   "codigo": 2409803,
+   "creas": false
+  },
+  {
+   "municipio": "Pendências",
+   "codigo": 2409902,
+   "creas": false
+  },
+  {
+   "municipio": "Pilões",
+   "codigo": 2410009,
+   "creas": false
+  },
+  {
+   "municipio": "Poço Branco",
+   "codigo": 2410108,
+   "creas": false
+  },
+  {
+   "municipio": "Portalegre",
+   "codigo": 2410207,
+   "creas": false
+  },
+  {
+   "municipio": "Porto do Mangue",
+   "codigo": 2410256,
+   "creas": false
+  },
+  {
+   "municipio": "Pureza",
+   "codigo": 2410405,
+   "creas": false
+  },
+  {
+   "municipio": "Rafael Fernandes",
+   "codigo": 2410504,
+   "creas": false
+  },
+  {
+   "municipio": "Rafael Godeiro",
+   "codigo": 2410603,
+   "creas": false
+  },
+  {
+   "municipio": "Riacho da Cruz",
+   "codigo": 2410702,
+   "creas": false
+  },
+  {
+   "municipio": "Riacho de Santana",
+   "codigo": 2410801,
+   "creas": true
+  },
+  {
+   "municipio": "Riachuelo",
+   "codigo": 2410900,
+   "creas": false
+  },
+  {
+   "municipio": "Rio do Fogo",
+   "codigo": 2408953,
+   "creas": false
+  },
+  {
+   "municipio": "Rodolfo Fernandes",
+   "codigo": 2411007,
+   "creas": false
+  },
+  {
+   "municipio": "Ruy Barbosa",
+   "codigo": 2411106,
+   "creas": false
+  },
+  {
+   "municipio": "Santa Cruz",
+   "codigo": 2411205,
+   "creas": true
+  },
+  {
+   "municipio": "Santa Maria",
+   "codigo": 2409332,
+   "creas": false
+  },
+  {
+   "municipio": "Santana do Matos",
+   "codigo": 2411403,
+   "creas": false
+  },
+  {
+   "municipio": "Santana do Seridó",
+   "codigo": 2411429,
+   "creas": false
+  },
+  {
+   "municipio": "Santo Antônio",
+   "codigo": 2411502,
+   "creas": true
+  },
+  {
+   "municipio": "São Bento do Norte",
+   "codigo": 2411601,
+   "creas": false
+  },
+  {
+   "municipio": "São Bento do Trairí",
+   "codigo": 2411700,
+   "creas": false
+  },
+  {
+   "municipio": "São Fernando",
+   "codigo": 2411809,
+   "creas": false
+  },
+  {
+   "municipio": "São Francisco do Oeste",
+   "codigo": 2411908,
+   "creas": false
+  },
+  {
+   "municipio": "São Gonçalo do Amarante",
+   "codigo": 2412005,
+   "creas": true
+  },
+  {
+   "municipio": "São João do Sabugi",
+   "codigo": 2412104,
+   "creas": false
+  },
+  {
+   "municipio": "São José de Mipibu",
+   "codigo": 2412203,
+   "creas": true
+  },
+  {
+   "municipio": "São José do Campestre",
+   "codigo": 2412302,
+   "creas": false
+  },
+  {
+   "municipio": "São José do Seridó",
+   "codigo": 2412401,
+   "creas": false
+  },
+  {
+   "municipio": "São Miguel",
+   "codigo": 2412500,
+   "creas": true
+  },
+  {
+   "municipio": "São Miguel do Gostoso",
+   "codigo": 2412559,
+   "creas": false
+  },
+  {
+   "municipio": "São Paulo do Potengi",
+   "codigo": 2412609,
+   "creas": true
+  },
+  {
+   "municipio": "São Pedro",
+   "codigo": 2412708,
+   "creas": false
+  },
+  {
+   "municipio": "São Rafael",
+   "codigo": 2412807,
+   "creas": false
+  },
+  {
+   "municipio": "São Tomé",
+   "codigo": 2412906,
+   "creas": false
+  },
+  {
+   "municipio": "São Vicente",
+   "codigo": 2413003,
+   "creas": true
+  },
+  {
+   "municipio": "Senador Elói de Souza",
+   "codigo": 2413102,
+   "creas": false
+  },
+  {
+   "municipio": "Senador Georgino Avelino",
+   "codigo": 2413201,
+   "creas": false
+  },
+  {
+   "municipio": "Serra Caiada",
+   "codigo": 2410306,
+   "creas": false
+  },
+  {
+   "municipio": "Serra de São Bento",
+   "codigo": 2413300,
+   "creas": false
+  },
+  {
+   "municipio": "Serra do Mel",
+   "codigo": 2413359,
+   "creas": false
+  },
+  {
+   "municipio": "Serra Negra do Norte",
+   "codigo": 2413409,
+   "creas": true
+  },
+  {
+   "municipio": "Serrinha",
+   "codigo": 2413508,
+   "creas": false
+  },
+  {
+   "municipio": "Serrinha dos Pintos",
+   "codigo": 2413557,
+   "creas": false
+  },
+  {
+   "municipio": "Severiano Melo",
+   "codigo": 2413607,
+   "creas": false
+  },
+  {
+   "municipio": "Sítio Novo",
+   "codigo": 2413706,
+   "creas": false
+  },
+  {
+   "municipio": "Taboleiro Grande",
+   "codigo": 2413805,
+   "creas": false
+  },
+  {
+   "municipio": "Taipu",
+   "codigo": 2413904,
+   "creas": false
+  },
+  {
+   "municipio": "Tangará",
+   "codigo": 2414001,
+   "creas": false
+  },
+  {
+   "municipio": "Tenente Ananias",
+   "codigo": 2414100,
+   "creas": false
+  },
+  {
+   "municipio": "Tenente Laurentino Cruz",
+   "codigo": 2414159,
+   "creas": false
+  },
+  {
+   "municipio": "Tibau",
+   "codigo": 2411056,
+   "creas": true
+  },
+  {
+   "municipio": "Tibau do Sul",
+   "codigo": 2414209,
+   "creas": false
+  },
+  {
+   "municipio": "Timbaúba dos Batistas",
+   "codigo": 2414308,
+   "creas": false
+  },
+  {
+   "municipio": "Touros",
+   "codigo": 2414407,
+   "creas": true
+  },
+  {
+   "municipio": "Triunfo Potiguar",
+   "codigo": 2414456,
+   "creas": false
+  },
+  {
+   "municipio": "Umarizal",
+   "codigo": 2414506,
+   "creas": true
+  },
+  {
+   "municipio": "Upanema",
+   "codigo": 2414605,
+   "creas": false
+  },
+  {
+   "municipio": "Várzea",
+   "codigo": 2414704,
+   "creas": false
+  },
+  {
+   "municipio": "Venha-Ver",
+   "codigo": 2414753,
+   "creas": false
+  },
+  {
+   "municipio": "Vera Cruz",
+   "codigo": 2414803,
+   "creas": false
+  },
+  {
+   "municipio": "Viçosa",
+   "codigo": 2414902,
+   "creas": false
+  },
+  {
+   "municipio": "Vila Flor",
+   "codigo": 2415008,
+   "creas": false
+  }
+ ]
